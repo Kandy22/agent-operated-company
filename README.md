@@ -43,4 +43,4 @@ purposes only** and do **not** constitute legal, tax, or accounting advice.
   sufficient.
 
 For advice about your situation, or to have General Legal file for you, engage
-us at https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company.
+us [here](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company).
