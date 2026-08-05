@@ -2,9 +2,9 @@
 
 **INDEMNIFICATION AGREEMENT**
 
-*\[COMPANY NAME\], LLC*
+*{Company Name}, LLC*
 
-This Indemnification Agreement (this “Agreement”) is made as of *\[DATE\]* between *\[COMPANY NAME\]*, LLC, a Delaware limited liability company (the “Company”), and *\[INDEMNITEE NAME\]* (the “Indemnitee”), who serves as a Manager of the Company.
+This Indemnification Agreement (this “Agreement”) is made as of *{Effective Date}* between *{Company Name}, LLC*, a Delaware limited liability company (the “Company”), and *{Indemnitee Name}* (the “Indemnitee”), who serves as a Manager of the Company.
 
 1.  **Indemnification.**
 
@@ -40,10 +40,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*\[COMPANY NAME\]*, LLC, by *\[NAME\]*, *\[Manager / Authorized Signatory\]*
+\[\[GL-SIGNATURE:manager\]\]
+*{Company Name}, LLC*, by *{Manager Name}*, *\[GL INSTRUCTION — Choose Manager or Authorized Signatory.\] {Company Signatory Capacity}*
 
 **INDEMNITEE**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*\[INDEMNITEE NAME\]*
+\[\[GL-SIGNATURE:indemnitee\]\]
+*{Indemnitee Name}*

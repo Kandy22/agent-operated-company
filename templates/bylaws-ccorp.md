@@ -1,16 +1,16 @@
 > **Drafting note — delete before use:** Bylaws for a Delaware C-corporation built to be operated day-to-day by an AI agent under human oversight: Article XII establishes the AI-governance regime (electronic-agent authority, board-adopted AI Governance Policy, audit log, officer supervision). Adopt via the Action of Incorporator; pair with the AI Governance Policy. Section numbers are literal text, so update cross-references if you add or remove sections. Replace bracketed terms.
 
-**<span class="smallcaps"><span class="underline">\[COMPANY NAME\], INC.</span></span>**
+**<span class="smallcaps"><span class="underline">{Company Name}, Inc.</span></span>**
 
 a Delaware corporation
 
 **<span class="underline">BYLAWS</span>**
 
-As Adopted \[INCORPORATION DATE\]
+As Adopted {Incorporation Date}
 
 # ARTICLE I: STOCKHOLDERS
 
-Section 1.1: **<span class="underline">Annual Meetings</span>.** Unless members of the Board of Directors (the “***Board***”) of \[COMPANY NAME\], Inc. (the “***Corporation***”) are elected by written consent in lieu of an annual meeting pursuant to Section 211(b) of the General Corporation Law of the State of Delaware as it may be amended from time to time (as so amended from time to time, the “***DGCL***”), an annual meeting of stockholders shall be held for the election of directors at such date and time as the Board shall each year fix. The meeting may be held either at a place, within or outside of the State of Delaware, or by means of remote communication, as the Board in its sole discretion may determine. Any proper business may be transacted at the annual meeting.
+Section 1.1: **<span class="underline">Annual Meetings</span>.** Unless members of the Board of Directors (the “***Board***”) of {Company Name}, Inc. (the “***Corporation***”) are elected by written consent in lieu of an annual meeting pursuant to Section 211(b) of the General Corporation Law of the State of Delaware as it may be amended from time to time (as so amended from time to time, the “***DGCL***”), an annual meeting of stockholders shall be held for the election of directors at such date and time as the Board shall each year fix. The meeting may be held either at a place, within or outside of the State of Delaware, or by means of remote communication, as the Board in its sole discretion may determine. Any proper business may be transacted at the annual meeting.
 
 Section 1.2: **<span class="underline">Special Meetings</span>.** Special meetings of stockholders, for any purpose or purposes prescribed in the notice of the meeting, may be called by the Chairperson of the Board, the Chief Executive Officer, the holders of shares of the Corporation that are entitled to cast not less than 20% of the total number of votes entitled to be cast by all stockholders at such meeting (assuming the record date for determining stockholders entitled to vote at such meeting was the date the request to call such meeting was delivered to the Board as required herein), or by a majority of the members of the Board. Special meetings may not be called by any other person or persons. If a special meeting of stockholders is called by any person or persons other than by a majority of the members of the Board, then such person or persons shall request such meeting by delivering a written request to call such meeting to each member of the Board, and the Board shall then determine the time and date of such special meeting, which shall be held not more than 120 days nor less than 35 days after the written request to call such special meeting was delivered to each member of the Board. The special meeting may be held either at a place, within or outside of the State of Delaware, or by means of remote communication, as the Board in its sole discretion may determine. Business transacted at any special meeting of stockholders shall be limited to the purpose or purposes stated in the notice of the meeting, unless all stockholders entitled to vote are present and consent. If any stockholder seeks to send a request to call such a special meeting, neither the Corporation nor any of its directors shall be required to accept delivery of such request unless the request is in writing exclusively (and not in an electronic transmission) and delivered exclusively by hand (including, without limitation, overnight courier service) or by certified or registered mail, return receipt requested.
 
@@ -139,15 +139,15 @@ Section 7.1: **<span class="underline">Notice</span>.**
 1)  in connection with any delivery to a member of the Board, be effectively given by hand delivery, by depositing such notice in the U.S. mail, postage prepaid, or by sending such notice by courier service, electronic mail, or other form of electronic transmission, provided if such notice is delivered pursuant to Section 2.4 to call a special meeting of the Board, delivery of such notice must occur not less than five days before the meeting or by electronic transmission of the same not less than 24 hours before the meeting; and
 
 2)  be effectively delivered to a stockholder when given by hand delivery, by depositing such notice in the U.S. mail, postage prepaid, by courier service, by direction to such stockholder’s electronic mail address or, if specifically consented to by the stockholder as described in Section 7.1.2 of this Article VII, by sending such notice by facsimile, posting such notice on an electronic network together with separate notice to the stockholder of such specific posting, or any other form of electronic transmission. The notice shall be given (i) in the case of hand delivery, when received by the person to whom notice is to be given or by any person accepting such notice on behalf of such person, (ii) in the case of delivery by U.S. mail, upon deposit in the U.S. mail, postage prepaid, (iii) in the case of delivery by courier service, the earlier of when the notice is received or left at such stockholder’s address, (iv) if given by electronic mail, when directed to such stockholder’s electronic mail address unless the stockholder has notified the Corporation in writing or by electronic transmission of an objection to receiving notice by electronic mail or such notice is prohibited by Section 7.1.3 below; and (v) in the case of delivery via facsimile or other form of electronic transmission, in accordance with Section 7.1.2 of this Article VII.
-    
+
     7.1.2 <span class="underline">Electronic Transmission</span>. Without limiting the manner by which notice otherwise may be given effectively to stockholders, but subject to Section 7.1.3 below, any notice to stockholders given by the Corporation under any provision of the DGCL, the Certificate of Incorporation, or these Bylaws shall be effective if given by a form of electronic transmission consented to by the stockholder to whom the notice is given. Any such consent shall be revocable by the stockholder by written notice or electronic transmission to the Corporation. The Corporation may give a notice by electronic mail in accordance with Section 7.1.1 without obtaining the consent required by this Section 7.1.2. Notice given pursuant to this Section 7.1.2 shall be deemed given: (i) if by facsimile telecommunication, when directed to a number at which the stockholder has consented to receive notice; (ii) if by a posting on an electronic network together with separate notice to the stockholder of such specific posting, upon the later of such posting and the giving of such separate notice; and (iii) if by any other form of electronic transmission, when directed to the stockholder.
-    
+
     7.1.3 <span class="underline">Exceptions To Delivery by Electronic Transmission</span>. Notwithstanding anything in this Article VII to the contrary, a notice may not be given by an electronic transmission from and after the time that: (i) the Corporation is unable to deliver by such electronic transmission two consecutive notices given by the Corporation and (ii) such inability becomes known to the Secretary or an Assistant Secretary of the Corporation or to the transfer agent, or other person responsible for the giving of notice, *<span class="underline">provided</span>*, *<span class="underline">however</span>*, the inadvertent failure to discover such inability shall not invalidate any meeting or other action.
-    
+
     7.1.4 <span class="underline">Affidavit of Giving Notice</span>. An affidavit of the Secretary or an Assistant Secretary or of the transfer agent or other agent of the Corporation that the notice has been given shall, in the absence of fraud, be prima facie evidence of the facts stated therein.
-    
+
     7.1.5 <span class="underline">Definitions</span>. The terms “electronic transmission”, “electronic mail” and “electronic mail address” shall have the meanings given to such terms in Section 232 of the DGCL.
-    
+
     7.1.6 <span class="underline">Limitation</span>. To the extent Section 232 of the DGCL is inapplicable to Sections 164, 296, 311, 312 or 324 of the DGCL, this Article VII shall be similarly inapplicable.
 
 Section 7.2: **<span class="underline">Waiver of Notice</span>.** Whenever notice is required to be given under any provision of the DGCL or the Certificate of Incorporation or these Bylaws, a written waiver, signed by the person entitled to notice, or a waiver by electronic transmission by the person entitled to notice, whether before or after the time stated therein, shall be deemed equivalent to notice. Attendance of a person at a meeting shall constitute a waiver of notice of such meeting, except when the person attends a meeting for the express purpose of objecting at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened. Neither the business to be transacted at, nor the purpose of, any regular or special meeting of the stockholders, directors or members of a committee of directors need be specified in any written waiver of notice or any waiver by electronic transmission unless so required by the Certificate of Incorporation or these Bylaws.
@@ -176,7 +176,7 @@ Unless otherwise required by the Certificate of Incorporation, stockholders of t
 
 # ARTICLE XI: RESTRICTIONS ON TRANSFERS OF CAPITAL STOCK
 
-Section 11.1: **<span class="underline">Restriction on Transfer.</span>** 
+Section 11.1: **<span class="underline">Restriction on Transfer.</span>**
 
 11.1.1 <span class="underline">Prior Consent to Transfer</span>. No holder (“***Stockholder***”) of shares of capital stock of the Corporation (“***Shares***”) may transfer, sell, assign, pledge, enter into any swap or other arrangement that transfers to another, in whole or in part, any of the economic consequences of ownership of, or otherwise in any manner dispose of or encumber, whether voluntarily or by operation of law, or by gift or otherwise (“***transfer***”), Shares or any right or interest therein without the prior written consent of the Corporation, in its sole discretion, and such holder otherwise complying with the requirements of this Article .
 
@@ -198,7 +198,7 @@ Section 11.1: **<span class="underline">Restriction on Transfer.</span>**
 
 11.1.3 <span class="underline">Conditions to Transfer</span>. As a condition to any transfer, the Corporation may, in its sole discretion, (i) require in connection with such transfer of Shares delivery to the Corporation of a written opinion of legal counsel, in form and substance satisfactory to it or its legal counsel in their respective discretion, that such transfer is exempt from applicable federal, state or other securities laws and regulations (a “***Legal Opinion***”), (ii) charge the transferor, transferee or both a transfer fee in such amount as may be reasonably determined by the Corporation’s management in order to recoup the Corporation’s internal and external costs of processing such transfer, due and payable to the Corporation prior to or upon effectiveness of such transfer, and/or (iii) require such transfer to be effected pursuant to a standard form of transfer agreement in such customary and reasonable form as may be determined by the Corporation’s management from time to time in its discretion.
 
-Section 11.2: **<span class="underline">Right of First Refusal.</span>** 
+Section 11.2: **<span class="underline">Right of First Refusal.</span>**
 
 11.2.1 <span class="underline">Notice of Proposed Transfer</span>. In addition to and without limiting the effect of Section 11.1, if the Stockholder desires to transfer any of such Stockholder’s Shares pursuant to Section 11.1.2(f) above, then the Stockholder shall first give written notice thereof to the Corporation. The notice shall (i) name the proposed transferee, (ii) state (a) the number of Shares to be transferred, (b) the proposed consideration and (c) all other terms and conditions of the proposed transfer, (iii) be signed by such Stockholder and the proposed purchaser or transferee, (iv) must constitute a binding commitment subject to the Corporation’s right of first refusal as set forth herein, (v) be accompanied by proof satisfactory to the Corporation or its legal counsel that the proposed sale or transfer will not violate any applicable U.S. federal, state or other securities laws, and (vi) offer the Shares at the same price and upon the same terms (or terms as similar as reasonably possible) to the Corporation or its assignee(s). The notice shall not be deemed delivered for purposes of this Section 11.2 until the later of (i) such time as the transferring Stockholder shall have delivered the foregoing notice to the Corporation, (ii) such time as any Legal Opinion that may be required pursuant to Section 11.1.3(i) shall have been delivered to the Corporation, and (iii) such time as an officer of the Corporation shall have confirmed in writing (including via email) that no such Legal Opinion shall be required with respect to the proposed transfer (or is not required to be delivered until a time reasonably in advance of the consummation of the proposed transfer).
 
@@ -246,14 +246,15 @@ Section 12.8: **<span class="underline">Suspension on Incapacity or Unavailabili
 
 **OF**
 
-**<span class="smallcaps"><span class="underline">\[COMPANY NAME\], INC.</span></span>**
+**<span class="smallcaps"><span class="underline">{Company Name}, Inc.</span></span>**
 
 (a Delaware corporation)
 
-I, \[FOUNDER/PRINCIPAL 1 NAME\], certify that I am Secretary of \[COMPANY NAME\], Inc., a Delaware corporation (the “***Corporation***”), that I am duly authorized to make and deliver this certification, that the attached Bylaws are a true and complete copy of the Bylaws of the Corporation in effect as of the date of this certificate.
+I, {Officer Name}, certify that I am Secretary of {Company Name}, Inc., a Delaware corporation (the “***Corporation***”), that I am duly authorized to make and deliver this certification, that the attached Bylaws are a true and complete copy of the Bylaws of the Corporation in effect as of the date of this certificate.
 
-Dated: \[INCORPORATION DATE\]
+Dated: {Incorporation Date}
 
 <span class="underline"> </span>
 
-\[FOUNDER/PRINCIPAL 1 NAME\], Secretary
+\[\[GL-SIGNATURE:secretary\]\]
+{Officer Name}, Secretary

@@ -4,16 +4,17 @@
 
 OF
 
-**\[COMPANY NAME\], LLC**
+**{Company Name}, LLC**
 
 This Certificate of Formation is filed under Section 18-201 of the Delaware Limited Liability Company Act.
 
-**FIRST.** The name of the limited liability company is \[COMPANY NAME\], LLC.
+**FIRST.** The name of the limited liability company is {Company Name}, LLC.
 
-**SECOND.** The address of its registered office in the State of Delaware is \[REGISTERED OFFICE ADDRESS\], and the name of its registered agent at that address is \[REGISTERED AGENT NAME\].
+**SECOND.** The address of its registered office in the State of Delaware is {Registered Office Address}, and the name of its registered agent at that address is {Registered Agent Name}.
 
-IN WITNESS WHEREOF, the undersigned authorized person has executed this Certificate of Formation on \[DATE\].
+IN WITNESS WHEREOF, the undersigned authorized person has executed this Certificate of Formation on {Effective Date}.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[AUTHORIZED PERSON NAME\], Authorized Person
+\[\[GL-SIGNATURE:authorized-person\]\]
+{Authorized Person Name}, Authorized Person

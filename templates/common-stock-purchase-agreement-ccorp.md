@@ -2,17 +2,17 @@
 
 **COMMON STOCK PURCHASE AGREEMENT**
 
-**\[COMPANY NAME\], INC.**
+**{Company Name}, Inc.**
 
-This Common Stock Purchase Agreement (this “Agreement”) is made as of \[DATE\] between \[COMPANY NAME\], Inc., a Delaware corporation (the “Company”), and \[PURCHASER NAME\] (the “Purchaser”).
+This Common Stock Purchase Agreement (this “Agreement”) is made as of {Effective Date} between {Company Name}, Inc., a Delaware corporation (the “Company”), and {Purchaser Name} (the “Purchaser”).
 
 1.  **Purchase and Sale.**
 
-The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, \[NUMBER\] shares of the Company’s Common Stock (the “Shares”) at a price of $\[PRICE\] per share, for an aggregate purchase price of $\[AMOUNT\].
+The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, {Number of Shares} shares of the Company’s Common Stock (the “Shares”) at a price of {Price Per Share} per share, for an aggregate purchase price of {Aggregate Purchase Price}.
 
 2.  **Consideration.**
 
-The purchase price is payable in \[cash / assignment of intellectual property / past services rendered\]. The Company’s Board of Directors has determined the consideration to be adequate under Section 152 of the General Corporation Law of the State of Delaware.
+The purchase price is payable in \[GL INSTRUCTION — Choose cash, assignment of intellectual property, or past services rendered.\] {Form of Consideration}. The Company’s Board of Directors has determined the consideration to be adequate under Section 152 of the General Corporation Law of the State of Delaware.
 
 3.  **Issuance.**
 
@@ -36,10 +36,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[COMPANY NAME\], INC., by \[NAME\], President and Chief Executive Officer
+\[\[GL-SIGNATURE:officer\]\]
+{Company Name}, Inc., by {Officer Name}, President and Chief Executive Officer
 
 **PURCHASER**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[PURCHASER NAME\]
+\[\[GL-SIGNATURE:purchaser\]\]
+{Purchaser Name}

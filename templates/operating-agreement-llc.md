@@ -6,11 +6,11 @@
 
 OF
 
-**\[COMPANY NAME\], LLC**
+**{Company Name}, LLC**
 
 a Delaware limited liability company
 
-This Operating Agreement (this “Agreement”) of \[COMPANY NAME\], LLC (the “Company”) is entered into and effective as of \[DATE\] by \[MEMBER NAME\] (the “Member”).
+This Operating Agreement (this “Agreement”) of {Company Name}, LLC (the “Company”) is entered into and effective as of {Effective Date} by {Member Name} (the “Member”).
 
 1.  **Formation.**
 
@@ -18,7 +18,7 @@ The Company was formed by filing a Certificate of Formation with the Delaware Se
 
 2.  **Name; Purpose; Term.**
 
-The name of the Company is \[COMPANY NAME\], LLC. The Company may engage in any lawful act or activity for which a limited liability company may be organized under the Act. The term of the Company is perpetual unless the Company is dissolved under Section 13.
+The name of the Company is {Company Name}, LLC. The Company may engage in any lawful act or activity for which a limited liability company may be organized under the Act. The term of the Company is perpetual unless the Company is dissolved under Section 13.
 
 3.  **Registered Office and Agent.**
 
@@ -26,11 +26,11 @@ The Company shall continuously maintain a registered office and a registered age
 
 4.  **Member; Membership Interest.**
 
-The Company initially has one member, \[MEMBER NAME\], who holds 100% of the membership interests of the Company. \[For multiple members, attach a schedule of members and percentage interests and expand Sections 5–7, 9, and 13 accordingly with counsel.\]The form membership interest purchase agreement attached hereto as Exhibit A is hereby approved.
+The Company initially has one member, {Member Name}, who holds 100% of the membership interests of the Company. \[GL INSTRUCTION — For multiple members, attach a schedule of members and percentage interests and expand Sections 5–7, 9, and 13 accordingly with counsel.\] The form membership interest purchase agreement attached hereto as Exhibit A is hereby approved.
 
 5.  **Capital Contribution.**
 
-The Member has contributed (or shall contribute) to the capital of the Company $\[AMOUNT\] in exchange for the membership interests as set forth in such Member’s membership interest purchase agreement \[and/or the property or past services described here\]. The Member is not obligated to make additional capital contributions and is not personally liable for the debts or obligations of the Company solely by reason of being a member or manager (Act § 18-303).
+The Member has contributed (or shall contribute) to the capital of the Company {Capital Contribution} in exchange for the membership interests as set forth in such Member’s membership interest purchase agreement \[GL INSTRUCTION — and/or the property or past services described here\] . The Member is not obligated to make additional capital contributions and is not personally liable for the debts or obligations of the Company solely by reason of being a member or manager (Act § 18-303).
 
 6.  **Distributions.**
 
@@ -38,11 +38,11 @@ The Manager may cause the Company to make distributions to the Member at such ti
 
 7.  **Allocations; Tax Classification.**
 
-The profits and losses of the Company are allocated to the Member. By default, the Company is a disregarded entity for federal income tax purposes (single member); the Company may elect to be taxed as an S-corporation or a C-corporation if eligible and desirable. \[Consult a tax advisor; see the filing instructions on the S-election.\]
+The profits and losses of the Company are allocated to the Member. By default, the Company is a disregarded entity for federal income tax purposes (single member); the Company may elect to be taxed as an S-corporation or a C-corporation if eligible and desirable. \[GL INSTRUCTION — Consult a tax advisor; see the filing instructions on the S-election.\]
 
 8.  **Management; Human Manager.**
 
-The Company is manager-managed. The initial Manager is \[MANAGER NAME\], a natural person. The Manager has full authority to manage the business and affairs of the Company and to bind the Company, subject to this Agreement and any AI Governance Policy adopted under Section 9. The Manager remains responsible for supervising any electronic agent and owes the Member the duties provided under the Act, as modified by this Agreement.
+The Company is manager-managed. The initial Manager is {Manager Name}, a natural person. The Manager has full authority to manage the business and affairs of the Company and to bind the Company, subject to this Agreement and any AI Governance Policy adopted under Section 9. The Manager remains responsible for supervising any electronic agent and owes the Member the duties provided under the Act, as modified by this Agreement.
 
 9.  **Electronic Agents; AI Governance Policy.**
 
@@ -64,7 +64,7 @@ The Company shall keep accurate books and records, maintain one or more separate
 
 12. **Transfers.**
 
-The Member may transfer its membership interest subject to the Act and applicable securities laws. \[For multi-member companies, add transfer restrictions, a right of first refusal, and admission mechanics with counsel.\]
+The Member may transfer its membership interest subject to the Act and applicable securities laws. \[GL INSTRUCTION — For multi-member companies, add transfer restrictions, a right of first refusal, and admission mechanics with counsel.\]
 
 13. **Dissolution and Winding Up.**
 
@@ -78,20 +78,22 @@ IN WITNESS WHEREOF, the Member has executed this Agreement as of the date first 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[MEMBER NAME\], Member
+\[\[GL-SIGNATURE:member\]\]
+{Member Name}, Member
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[MANAGER NAME\], Manager (acknowledging the duties in Sections 8–9)
+\[\[GL-SIGNATURE:manager\]\]
+{Manager Name}, Manager (acknowledging the duties in Sections 8–9)
 
 **Exhibit A**
 
 **Form of Membership Interest Purchase Agreement**
 
-**\[Attached\]**
+**\[GL INSTRUCTION — Attached document is supplied as the following packet section.\] **
 
 **Exhibit B**
 
 **Form of Indemnification Agreement**
 
-**\[Attached\]**
+**\[GL INSTRUCTION — Attached document is supplied as the following packet section.\] **
