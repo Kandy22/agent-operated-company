@@ -4,13 +4,13 @@
 
 OF
 
-**\[COMPANY NAME\], LLC**
+**{Company Name}, LLC**
 
-Adopted by the Manager on \[DATE\]
+Adopted by the Manager on {Effective Date}
 
 1.  **Purpose and Scope.**
 
-This AI Governance Policy (this “Policy”) is adopted by the Manager of \[COMPANY NAME\], LLC (the “Company”) under Sections 8 and 9 of the Company’s Operating Agreement. It governs the Company’s use of automated systems and artificial-intelligence systems that act as electronic agents of the Company (each, an “AI Agent”) within the meaning of the Uniform Electronic Transactions Act (or analogous state law) and the federal Electronic Signatures in Global and National Commerce Act. Actions taken by an AI Agent within the scope of authority granted under this Policy and the Operating Agreement are the binding acts of the Company.
+This AI Governance Policy (this “Policy”) is adopted by the Manager of {Company Name}, LLC (the “Company”) under Sections 8 and 9 of the Company’s Operating Agreement. It governs the Company’s use of automated systems and artificial-intelligence systems that act as electronic agents of the Company (each, an “AI Agent”) within the meaning of the Uniform Electronic Transactions Act (or analogous state law) and the federal Electronic Signatures in Global and National Commerce Act. Actions taken by an AI Agent within the scope of authority granted under this Policy and the Operating Agreement are the binding acts of the Company.
 
 2.  **Designated AI Agent(s).**
 
@@ -18,15 +18,15 @@ The AI Agent(s) authorized to act for the Company are identified on Schedule 1. 
 
 3.  **AI Oversight Officer.**
 
-The Manager shall designate one or more natural persons to supervise the AI Agent(s) (each, an “AI Oversight Officer”). The initial AI Oversight Officer is \[NAME\], who also serves as the Company’s sole Member and Manager. The AI Oversight Officer is accountable for administering this Policy, maintaining the Audit Log, and reporting to the Member. The AI Agent is a tool of the Company and is not a member, manager, or officer.
+The Manager shall designate one or more natural persons to supervise the AI Agent(s) (each, an “AI Oversight Officer”). The initial AI Oversight Officer is {AI Oversight Officer Name}, who also serves as the Company’s sole Member and Manager. The AI Oversight Officer is accountable for administering this Policy, maintaining the Audit Log, and reporting to the Member. The AI Agent is a tool of the Company and is not a member, manager, or officer.
 
 4.  **Authorized Actions (no human ratification required).**
 
-Within the limits set on Schedule 2, an AI Agent may take the following actions on behalf of the Company without contemporaneous human ratification: (i) negotiate, enter into, and perform routine standard-form commercial contracts (including click-wrap agreements) in the ordinary course with a value at or below $\[THRESHOLD\]; (ii) purchase goods and services in the ordinary course within approved budgets; (iii) communicate with customers, vendors, and counterparties; (iv) create and maintain the Company’s books, records, and ordinary regulatory filings; and (v) initiate and receive payments within the limits on Schedule 2.
+Within the limits set on Schedule 2, an AI Agent may take the following actions on behalf of the Company without contemporaneous human ratification: (i) negotiate, enter into, and perform routine standard-form commercial contracts (including click-wrap agreements) in the ordinary course with a value at or below {Contract Threshold}; (ii) purchase goods and services in the ordinary course within approved budgets; (iii) communicate with customers, vendors, and counterparties; (iv) create and maintain the Company’s books, records, and ordinary regulatory filings; and (v) initiate and receive payments within the limits on Schedule 2.
 
 5.  **Manager-Approval Actions (sign-off required).**
 
-The following require the advance approval of the AI Oversight Officer or the Manager: (i) any contract with a value above $\[THRESHOLD\] or outside the ordinary course; (ii) engaging, or terminating the engagement of, or terminating personnel or contractors; (iii) opening or closing financial accounts; (iv) public statements made in the name of the Company; and (v) any matter Schedule 2 designates as requiring advance approval or sign-off prior to taking action.
+The following require the advance approval of the AI Oversight Officer or the Manager: (i) any contract with a value above {Contract Threshold} or outside the ordinary course; (ii) engaging, or terminating the engagement of, or terminating personnel or contractors; (iii) opening or closing financial accounts; (iv) public statements made in the name of the Company; and (v) any matter Schedule 2 designates as requiring advance approval or sign-off prior to taking action.
 
 6.  **Member-Reserved Actions.**
 
@@ -58,16 +58,18 @@ Nothing in this Policy limits, modifies, or transfers the duties of the Manager 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[NAME\], Manager
+\[\[GL-SIGNATURE:manager\]\]
+{Manager Name}, Manager
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[NAME\], AI Oversight Officer
+\[\[GL-SIGNATURE:ai-oversight-officer\]\]
+{AI Oversight Officer Name}, AI Oversight Officer
 
 **SCHEDULE 1 — DESIGNATED AI AGENT(S)**
 
-\[Identify each AI Agent in use — for example, the model and provider and the interface through which it acts (e.g., “the ‘Operator’ agent built on \[provider\]’s \[model family\], accessed via the company’s application”). Per Section 11, version updates within the same provider and model family are logged in the Audit Log and do not require re-adoption of this Policy.\]
+\[GL INSTRUCTION — Identify each AI Agent in use — for example, the model and provider and the interface through which it acts (e.g., “the ‘Operator’ agent built on \[provider\]’s \[model family\], accessed via the company’s application”). Per Section 11, version updates within the same provider and model family are logged in the Audit Log and do not require re-adoption of this Policy.\] {AI Agent Description}
 
 **SCHEDULE 2 — AUTHORITY LIMITS**
 
-\[Set the dollar thresholds and category limits referenced in Sections 4–5 — e.g., per-contract and aggregate spending limits, payment limits, approved vendor or budget categories, and any matters that always require Manager or Member sign-off.\]
+\[GL INSTRUCTION — Set the dollar thresholds and category limits referenced in Sections 4–5 — e.g., per-contract and aggregate spending limits, payment limits, approved vendor or budget categories, and any matters that always require Manager or Member sign-off.\] {Authority Limits}

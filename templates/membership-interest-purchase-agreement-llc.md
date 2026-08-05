@@ -2,17 +2,17 @@
 
 **MEMBERSHIP INTEREST PURCHASE AGREEMENT**
 
-*\[COMPANY NAME\], LLC*
+*{Company Name}, LLC*
 
-This Membership Interest Purchase Agreement (this “Agreement”) is made as of *\[DATE\]* between *\[COMPANY NAME\]*, LLC, a Delaware limited liability company (the “Company”), and *\[PURCHASER NAME\]* (the “Purchaser”).
+This Membership Interest Purchase Agreement (this “Agreement”) is made as of *{Effective Date}* between *{Company Name}, LLC*, a Delaware limited liability company (the “Company”), and *{Purchaser Name}* (the “Purchaser”).
 
 1.  **Purchase and Sale.**
 
-The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, *\[NUMBER\]* membership interests (the “Membership Interest”), representing a *\[PERCENTAGE\]*% membership interest in the Company as of the date of this Agreement, at a price of $*\[PRICE\]* per Membership Interest, for an aggregate purchase price of $*\[AMOUNT\]* (the “Purchase Price”).
+The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, *{Number of Interests}* membership interests (the “Membership Interest”), representing a *{Ownership Percentage}*% membership interest in the Company as of the date of this Agreement, at a price of {Price Per Interest} per Membership Interest, for an aggregate purchase price of {Aggregate Purchase Price} (the “Purchase Price”).
 
 2.  **Consideration.**
 
-The Purchase Price is payable in *\[cash / assignment of intellectual property / past services rendered\]*. The Manager(s) of the Company have determined the consideration to be adequate in accordance with the Company’s Operating Agreement, as amended from time to time (the “Operating Agreement”).
+The Purchase Price is payable in *\[GL INSTRUCTION — Choose cash, assignment of intellectual property, or past services rendered.\] {Form of Consideration}*. The Manager(s) of the Company have determined the consideration to be adequate in accordance with the Company’s Operating Agreement, as amended from time to time (the “Operating Agreement”).
 
 3.  **Issuance; Admission as Member.**
 
@@ -36,10 +36,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*\[COMPANY NAME\]*, LLC, by *\[NAME\]*, *\[Manager / Authorized Signatory\]*
+\[\[GL-SIGNATURE:manager\]\]
+*{Company Name}, LLC*, by *{Manager Name}*, *\[GL INSTRUCTION — Choose Manager or Authorized Signatory.\] {Company Signatory Capacity}*
 
 **PURCHASER**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*\[PURCHASER NAME\]*
+\[\[GL-SIGNATURE:purchaser\]\]
+*{Purchaser Name}*

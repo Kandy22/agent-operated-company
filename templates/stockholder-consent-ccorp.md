@@ -4,19 +4,19 @@
 
 **OF THE SOLE STOCKHOLDER OF**
 
-**\[COMPANY NAME\], INC.**
+**{Company Name}, Inc.**
 
-\[DATE\]
+{Effective Date}
 
-Pursuant to Section 228 of the General Corporation Law of the State of Delaware (the “DGCL”), the undersigned, being the holder of all of the outstanding shares of capital stock of \[COMPANY NAME\], Inc., a Delaware corporation (the “Corporation”), adopts the following resolutions by written consent without a meeting:
+Pursuant to Section 228 of the General Corporation Law of the State of Delaware (the “DGCL”), the undersigned, being the holder of all of the outstanding shares of capital stock of {Company Name}, Inc., a Delaware corporation (the “Corporation”), adopts the following resolutions by written consent without a meeting:
 
 **Ratification of Director Election.**
 
-RESOLVED, that the election of \[DIRECTOR NAME\] as the sole director of the Corporation by the incorporator is ratified, confirmed, and approved.
+RESOLVED, that the election of {Director Name} as the sole director of the Corporation by the incorporator is ratified, confirmed, and approved.
 
 **Approval of Indemnification Agreement.**
 
-RESOLVED, that the Indemnification Agreement between the Corporation and \[DIRECTOR NAME\], in substantially the form approved by the Board of Directors and attached hereto as Exhibit A, is approved, including as an interested transaction between the Corporation and a director, and the officers are authorized to execute and deliver it on behalf of the Corporation.
+RESOLVED, that the Indemnification Agreement between the Corporation and {Director Name}, in substantially the form approved by the Board of Directors and attached hereto as Exhibit A, is approved, including as an interested transaction between the Corporation and a director, and the officers are authorized to execute and deliver it on behalf of the Corporation.
 
 **General Authority.**
 
@@ -26,10 +26,11 @@ This consent may be executed by electronic signature and shall be filed with the
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[STOCKHOLDER NAME\], Sole Stockholder
+\[\[GL-SIGNATURE:stockholder\]\]
+{Stockholder Name}, Sole Stockholder
 
 **Exhibit A**
 
 Form of Indemnification Agreement
 
-\[Attached\]
+\[GL INSTRUCTION — Attached document is supplied as the following packet section.\]

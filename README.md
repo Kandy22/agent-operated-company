@@ -11,6 +11,8 @@ It includes:
 - `templates/` — the formation documents, each provided as both a file-ready Word `.docx` (Times New Roman, native numbering) and a Markdown `.md` mirror, and labeled by entity type (`-ccorp` / `-llc`): the charter, Action of Incorporator, bylaws/operating agreement, AI Governance Policy (separate C-corp and LLC versions), ownership issuance (stock purchase / membership interest purchase), organizational resolutions, stockholder consent, and indemnification (director / LLC manager).
 - `filing-instructions/` — how to actually file (Delaware and home-state), get an EIN, appoint a registered agent, and open a bank account.
 
+See [`templates/README.md`](templates/README.md) before editing template files.
+
 ## Two ways to use it
 
 1. **Do it yourself.** Use the templates and follow `filing-instructions/`. The standard case is genuinely DIY-able.
@@ -21,7 +23,7 @@ It includes:
 
 1. Read `filing-instructions/README.md`.
 2. Pick your entity (`templates/certificate-of-formation-llc.md` or `templates/certificate-of-incorporation-ccorp.md`). See the decision guide in the filing instructions.
-3. Fill the `[BRACKETED]` placeholders, file the charter with the state, appoint a registered agent, and get a free EIN from the IRS.
+3. Fill the `{Field Name}` placeholders, file the charter with the state, appoint a registered agent, and get a free EIN from the IRS.
 4. Adopt the internal documents (bylaws/operating agreement, AI Governance Policy, organizational resolutions, ownership issuance, stockholder consent (corp), indemnification).
 5. **Open a separate business bank account and keep the liability shield intact** — see `filing-instructions/README.md` (this step is not optional).
 

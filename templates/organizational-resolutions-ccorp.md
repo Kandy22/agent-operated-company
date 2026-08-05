@@ -4,11 +4,11 @@
 
 OF THE BOARD OF DIRECTORS OF
 
-**\[COMPANY NAME\], INC.**
+**{Company Name}, Inc.**
 
-\[DATE\]
+{Effective Date}
 
-Pursuant to Section 141(f) of the General Corporation Law of the State of Delaware (the “DGCL”), the undersigned, being all of the directors of \[COMPANY NAME\], Inc., a Delaware corporation (the “Corporation”), adopt the following resolutions by written consent without a meeting:
+Pursuant to Section 141(f) of the General Corporation Law of the State of Delaware (the “DGCL”), the undersigned, being all of the directors of {Company Name}, Inc., a Delaware corporation (the “Corporation”), adopt the following resolutions by written consent without a meeting:
 
 1.  **Ratification of Incorporator’s Actions.**
 
@@ -20,19 +20,19 @@ RESOLVED, that the Certificate of Incorporation filed with the Delaware Secretar
 
 3.  **Principal Office.**
 
-RESOLVED, that the principal office of the Corporation shall be located at \[PRINCIPAL OFFICE ADDRESS\], and that the officers may change the location of the principal office from time to time.
+RESOLVED, that the principal office of the Corporation shall be located at {Principal Office Address}, and that the officers may change the location of the principal office from time to time.
 
 4.  **Election of Officers.**
 
-RESOLVED, that the following natural person is elected to the offices set forth opposite their name, each to serve until a successor is elected or until earlier resignation or removal: \[NAME\] — President and Chief Executive Officer, Secretary, and Treasurer. \[List additional officers if the founder chooses to separate these roles.\]
+RESOLVED, that the following natural person is elected to the offices set forth opposite their name, each to serve until a successor is elected or until earlier resignation or removal: {Officer Name} — President and Chief Executive Officer, Secretary, and Treasurer. \[GL INSTRUCTION — List additional officers if the founder chooses to separate these roles.\]
 
 5.  **Issuance of Founder Stock.**
 
-RESOLVED, that the Corporation shall sell and issue to \[FOUNDER NAME\] \[NUMBER\] shares of the Corporation’s Common Stock at a price of $\[PRICE\] per share, for aggregate consideration of $\[AMOUNT\] payable in \[cash / assignment of intellectual property / past services rendered\], which the Board determines to be adequate consideration under Section 152 of the DGCL; and RESOLVED FURTHER, that upon the Corporation’s receipt of the consideration and a signed Common Stock Purchase Agreement in substantially the form attached hereto as Exhibit A, the shares shall be duly authorized, validly issued, fully paid, and non-assessable, and shall be recorded in the Corporation’s stock ledger.
+RESOLVED, that the Corporation shall sell and issue to {Founder Name} {Number of Shares} shares of the Corporation’s Common Stock at a price of {Price Per Share} per share, for aggregate consideration of {Aggregate Purchase Price} payable in \[GL INSTRUCTION — Choose cash, assignment of intellectual property, or past services rendered.\] {Form of Consideration}, which the Board determines to be adequate consideration under Section 152 of the DGCL; and RESOLVED FURTHER, that upon the Corporation’s receipt of the consideration and a signed Common Stock Purchase Agreement in substantially the form attached hereto as Exhibit A, the shares shall be duly authorized, validly issued, fully paid, and non-assessable, and shall be recorded in the Corporation’s stock ledger.
 
 6.  **Adoption of AI Governance Policy.**
 
-WHEREAS, Article XII of the Bylaws requires the Board to adopt and maintain a written AI Governance Policy; NOW, THEREFORE, RESOLVED, that the AI Governance Policy presented to the Board is adopted as the Corporation’s AI Governance Policy; RESOLVED FURTHER, that the AI system identified on Schedule 1 to that Policy is designated as the Corporation’s AI Agent and that \[NAME\] is designated as the initial AI Oversight Officer; and RESOLVED FURTHER, that the officers are authorized to maintain the Audit Log and deliver the quarterly reports the Policy requires.
+WHEREAS, Article XII of the Bylaws requires the Board to adopt and maintain a written AI Governance Policy; NOW, THEREFORE, RESOLVED, that the AI Governance Policy presented to the Board is adopted as the Corporation’s AI Governance Policy; RESOLVED FURTHER, that the AI system identified on Schedule 1 to that Policy is designated as the Corporation’s AI Agent and that {AI Oversight Officer Name} is designated as the initial AI Oversight Officer; and RESOLVED FURTHER, that the officers are authorized to maintain the Audit Log and deliver the quarterly reports the Policy requires.
 
 7.  **Bank Accounts.**
 
@@ -44,7 +44,7 @@ RESOLVED, that the officers are authorized to obtain an Employer Identification 
 
 9.  **Fiscal Year.**
 
-RESOLVED, that the fiscal year of the Corporation shall end on \[December 31\] of each year.
+RESOLVED, that the fiscal year of the Corporation shall end on {Fiscal Year End} of each year.
 
 10. **Indemnification Agreement.**
 
@@ -60,16 +60,17 @@ IN WITNESS WHEREOF, the undersigned has executed this Action by Written Consent 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[DIRECTOR NAME\], Director
+\[\[GL-SIGNATURE:director\]\]
+{Director Name}, Director
 
 **Exhibit A**
 
 **Form of Common Stock Purchase Agreement**
 
-**\[Attached\]**
+**\[GL INSTRUCTION — Attached document is supplied as the following packet section.\] **
 
 **Exhibit B**
 
 Form of Indemnification Agreement
 
-\[Attached\]
+\[GL INSTRUCTION — Attached document is supplied as the following packet section.\]

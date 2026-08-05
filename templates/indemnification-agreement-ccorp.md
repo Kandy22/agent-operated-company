@@ -2,9 +2,9 @@
 
 **INDEMNIFICATION AGREEMENT**
 
-**\[COMPANY NAME\], INC.**
+**{Company Name}, Inc.**
 
-This Indemnification Agreement (this “Agreement”) is made as of \[DATE\] between \[COMPANY NAME\], Inc., a Delaware corporation (the “Company”), and \[INDEMNITEE NAME\] (the “Indemnitee”), who serves as a director and/or officer of the Company.
+This Indemnification Agreement (this “Agreement”) is made as of {Effective Date} between {Company Name}, Inc., a Delaware corporation (the “Company”), and {Indemnitee Name} (the “Indemnitee”), who serves as a director and/or officer of the Company.
 
 1.  **Indemnification.**
 
@@ -22,9 +22,9 @@ To the extent the Indemnitee is successful, on the merits or otherwise, in defen
 
 The rights provided by this Agreement are in addition to, and not exclusive of, any rights the Indemnitee may have under the Certificate of Incorporation, the Bylaws, the DGCL, any insurance policy, any vote of stockholders or directors, or otherwise.
 
-5.  **Directors’ and Officers’ Insurance \[optional\].**
+5.  **Directors’ and Officers’ Insurance. \[GL INSTRUCTION — This section is optional.\]**
 
-The Company \[shall use commercially reasonable efforts to maintain / may maintain\] directors’ and officers’ liability insurance covering the Indemnitee on terms no less favorable than coverage provided to the Company’s other directors and officers.
+\[GL INSTRUCTION — Choose the approved directors’ and officers’ insurance undertaking.\] {Directors and Officers Insurance Undertaking}
 
 6.  **Continuation and Survival.**
 
@@ -44,10 +44,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[COMPANY NAME\], INC., by \[NAME\], President and Chief Executive Officer
+\[\[GL-SIGNATURE:officer\]\]
+{Company Name}, Inc., by {Officer Name}, President and Chief Executive Officer
 
 **INDEMNITEE**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[INDEMNITEE NAME\]
+\[\[GL-SIGNATURE:indemnitee\]\]
+{Indemnitee Name}
