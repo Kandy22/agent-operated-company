@@ -326,9 +326,9 @@
     "llc": {
       "number_of_interests": "100",
       "ownership_percentage": "100",
-      "price_per_interest": "$0.10",
-      "aggregate_purchase_price": "$10.00",
-      "capital_contribution": "$10.00",
+      "price_per_interest": "$1.00",
+      "aggregate_purchase_price": "$100.00",
+      "capital_contribution": "$100.00",
       "form_of_consideration": "cash",
       "company_signatory_capacity": "Manager"
     }
