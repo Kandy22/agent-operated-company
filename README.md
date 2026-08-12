@@ -9,7 +9,8 @@ A complete, free starter kit for **agent-controlled incorporation**: forming a n
 It includes:
 
 - `templates/` — the formation documents, each provided as both a file-ready Word `.docx` (Times New Roman, native numbering) and a Markdown `.md` mirror, and labeled by entity type (`-ccorp` / `-llc`): the charter, Action of Incorporator, bylaws/operating agreement, AI Governance Policy (separate C-corp and LLC versions), ownership issuance (stock purchase / membership interest purchase), organizational resolutions, stockholder consent, and indemnification (director / LLC manager).
-- `filing-instructions/` — how to actually file (Delaware and home-state), get an EIN, appoint a registered agent, and open a bank account.
+- `filing-instructions/` — how to actually file (Delaware and home-state), get an EIN (including agent walkthroughs of the IRS application), appoint a registered agent, and open a bank account.
+- `shelfco/` — the ShelfCo variant: the documents that hand a pre-formed Delaware shelf LLC (`GL AgentCo <n>, LLC`) over to a client, for General Legal's near-instant formation offering. The set is defined in `manifest.json` under `document_sets.llc-shelfco`; see [`shelfco/README.md`](shelfco/README.md).
 
 See [`templates/README.md`](templates/README.md) before editing template files.
 
@@ -17,7 +18,7 @@ See [`templates/README.md`](templates/README.md) before editing template files.
 
 1. **Do it yourself.** Use the templates and follow `filing-instructions/`. The standard case is genuinely DIY-able.
 2. **Consult a General Legal attorney if you need help.** $500 for a standard single-class LLC or C-corp (you also pay the state filing fee and registered agent). Engagement is a clickthrough; we run a quick conflicts check and then file as your lawyer. Sign up [here](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company)
-3. **Via MCP.** You can also ask General Legal to incorporate an agent-operated company for you via MCP. First, sign up using the [link](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company) above, and then connect to the MCP here: (`https://mcp.general.legal/mcp`, Streamable HTTP + OAuth 2.1) and have your agent of choice ask General Legal to set up an agent-operated company. Note, setting up a company requires filing with the Delaware state government, which can take time, so instruct your agent to check back over hours to days until the process is complete.
+3. **Via MCP.** You can also ask General Legal to incorporate an agent-operated company for you via MCP. First, sign up using the [link](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company) above, and then connect to the MCP here: (`https://mcp.general.legal/mcp`, Streamable HTTP + OAuth 2.1) and have your agent of choice ask General Legal to set up an agent-operated company. Note, setting up a company requires filing with the Delaware state government, which can take time, so instruct your agent to check back over hours to days until the process is complete. For an LLC there is also an instant option: General Legal hands over a pre-formed shelf company (the `shelfco/` document set), usually within minutes of signing; the company keeps its `GL AgentCo <n>, LLC` name.
 
 ## Quickstart
 

@@ -16,6 +16,7 @@ A plain-English checklist. The standard case is DIY-able; you can also consult a
 
 ## Step 3 — Get an EIN (free)
 - Apply directly at irs.gov. **Never pay a third-party site for an EIN.**
+- Agent walkthroughs of the IRS application: `delaware-llc-ein-filing-instructions.md` (LLC) and `delaware-c-corporation-ein-filing-instructions.md` (C-corp).
 
 ## Step 4 — Adopt the internal documents
 - Bylaws (corp) or Operating Agreement (LLC), the AI Governance Policy, organizational resolutions, your ownership issuance (stock purchase agreement or membership interest purchase agreement), the stockholder consent (corp), and the indemnification agreement (director or LLC manager).

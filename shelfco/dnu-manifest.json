@@ -1,0 +1,330 @@
+{
+  "name": "shelfco-dnu-records",
+  "note": "Archival record for the parked ShelfCo flows (dnu-ccorp/, dnu-prefile-ein/, dnu-rename/): the template entries, document-set orderings, and field bookkeeping a revival would need. Nothing live references this file; the live set is document_sets.llc-shelfco in the root manifest.json. docx_path and path entries resolve relative to shelfco/.",
+  "dnu_templates": [
+    {
+      "id": "form-8822-b",
+      "title": "IRS Form 8822-B (Change of Responsible Party)",
+      "path": "dnu-prefile-ein/templates/form-8822-b.md",
+      "entity": "Both",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{Current Company Name}",
+        "{EIN}",
+        "{Principal Office Address}",
+        "{Responsible Party Name}"
+      ],
+      "signature_capacities": [
+        "officer (C-corp) or manager (LLC)"
+      ],
+      "source_pdf": "dnu-prefile-ein/forms/f8822b.pdf",
+      "status": "dnu",
+      "dnu_reason": "prefile-ein",
+      "note": "No .docx. It is the IRS's own fillable PDF plus a field map, and would have to be filed on the IRS form rather than retyped. Needed only if General Legal resumes obtaining the shelf entity's EIN before handoff."
+    },
+    {
+      "id": "name-change-consent-llc",
+      "title": "Name Change Consent (LLC)",
+      "path": "dnu-rename/templates/name-change-consent-llc.md",
+      "entity": "LLC",
+      "variant": "rename",
+      "filed_with_state": false,
+      "fields": [
+        "{Amendment Authorized Person Name}",
+        "{Current Company Name}",
+        "{Effective Date}",
+        "{Formation Date}",
+        "{Manager Name}",
+        "{Member Name}",
+        "{New Company Name}"
+      ],
+      "signature_capacities": [
+        "manager",
+        "member"
+      ],
+      "docx_path": "dnu-rename/templates/name-change-consent-llc.docx",
+      "status": "dnu",
+      "dnu_reason": "rename"
+    },
+    {
+      "id": "certificate-of-amendment-llc",
+      "title": "Certificate of Amendment (LLC)",
+      "path": "dnu-rename/templates/certificate-of-amendment-llc.md",
+      "entity": "LLC",
+      "variant": "rename",
+      "filed_with_state": true,
+      "fields": [
+        "{Amendment Authorized Person Name}",
+        "{Current Company Name}",
+        "{Execution Day}",
+        "{Execution Month}",
+        "{Execution Year}",
+        "{New Company Name}"
+      ],
+      "signature_capacities": [
+        "amendment-authorized-person"
+      ],
+      "source_pdf": "dnu-rename/forms/de-certificate-of-amendment-llc.pdf",
+      "docx_path": "dnu-rename/templates/certificate-of-amendment-llc.docx",
+      "status": "dnu",
+      "dnu_reason": "rename"
+    },
+    {
+      "id": "action-of-incorporator-ccorp",
+      "title": "Action of Incorporator (C-corp, ShelfCo)",
+      "path": "dnu-ccorp/templates/action-of-incorporator-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{Company Name}",
+        "{Director Name}",
+        "{Effective Date}",
+        "{Incorporation Date}",
+        "{Incorporator Name}"
+      ],
+      "signature_capacities": [
+        "incorporator"
+      ],
+      "docx_path": "dnu-ccorp/templates/action-of-incorporator-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp"
+    },
+    {
+      "id": "bylaws-ccorp",
+      "title": "Bylaws (C-corp)",
+      "path": "dnu-ccorp/templates/bylaws-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{Company Name}",
+        "{Effective Date}",
+        "{Officer Name}"
+      ],
+      "signature_capacities": [
+        "secretary"
+      ],
+      "docx_path": "dnu-ccorp/templates/bylaws-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp"
+    },
+    {
+      "id": "organizational-resolutions-ccorp",
+      "title": "Organizational Resolutions (C-corp, ShelfCo)",
+      "path": "dnu-ccorp/templates/organizational-resolutions-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{AI Oversight Officer Name}",
+        "{Aggregate Purchase Price}",
+        "{Company Name}",
+        "{Director Name}",
+        "{EIN}",
+        "{Effective Date}",
+        "{Fiscal Year End}",
+        "{Form of Consideration}",
+        "{Founder Name}",
+        "{Incorporation Date}",
+        "{Number of Shares}",
+        "{Officer Name}",
+        "{Price Per Share}",
+        "{Principal Office Address}",
+        "{Responsible Party Name}"
+      ],
+      "signature_capacities": [
+        "director"
+      ],
+      "docx_path": "dnu-ccorp/templates/organizational-resolutions-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp",
+      "note": "Resolution 8 is written for the prefile flow: it ratifies an existing EIN and directs a Form 8822-B filing. If the C-corp set is ever revived, that resolution has to be rewritten to authorize a new EIN application, the same edit that was made to operating-agreement-llc Section 7 on 2026-08-11."
+    },
+    {
+      "id": "common-stock-purchase-agreement-ccorp",
+      "title": "Common Stock Purchase Agreement (C-corp)",
+      "path": "dnu-ccorp/templates/common-stock-purchase-agreement-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{Aggregate Purchase Price}",
+        "{Company Name}",
+        "{Effective Date}",
+        "{Form of Consideration}",
+        "{Number of Shares}",
+        "{Officer Name}",
+        "{Price Per Share}",
+        "{Purchaser Name}"
+      ],
+      "signature_capacities": [
+        "officer",
+        "purchaser"
+      ],
+      "docx_path": "dnu-ccorp/templates/common-stock-purchase-agreement-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp"
+    },
+    {
+      "id": "stockholder-consent-ccorp",
+      "title": "Stockholder Consent (C-corp, sole stockholder)",
+      "path": "dnu-ccorp/templates/stockholder-consent-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{Company Name}",
+        "{Director Name}",
+        "{Effective Date}",
+        "{Stockholder Name}"
+      ],
+      "signature_capacities": [
+        "stockholder"
+      ],
+      "docx_path": "dnu-ccorp/templates/stockholder-consent-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp"
+    },
+    {
+      "id": "indemnification-agreement-ccorp",
+      "title": "Indemnification Agreement (C-corp)",
+      "path": "dnu-ccorp/templates/indemnification-agreement-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{Company Name}",
+        "{Directors and Officers Insurance Undertaking}",
+        "{Effective Date}",
+        "{Indemnitee Name}",
+        "{Officer Name}"
+      ],
+      "signature_capacities": [
+        "indemnitee",
+        "officer"
+      ],
+      "docx_path": "dnu-ccorp/templates/indemnification-agreement-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp"
+    },
+    {
+      "id": "ai-governance-policy-ccorp",
+      "title": "AI Governance Policy (C-corp)",
+      "path": "dnu-ccorp/templates/ai-governance-policy-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "base",
+      "filed_with_state": false,
+      "fields": [
+        "{AI Agent Description}",
+        "{AI Oversight Officer Name}",
+        "{Authority Limits}",
+        "{Company Name}",
+        "{Contract Threshold}",
+        "{Director Name}",
+        "{Effective Date}"
+      ],
+      "signature_capacities": [
+        "ai-oversight-officer",
+        "director"
+      ],
+      "docx_path": "dnu-ccorp/templates/ai-governance-policy-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp"
+    },
+    {
+      "id": "name-change-consent-ccorp",
+      "title": "Name Change Consent (C-corp)",
+      "path": "dnu-ccorp/templates/name-change-consent-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "rename",
+      "filed_with_state": false,
+      "fields": [
+        "{Current Company Name}",
+        "{Director Name}",
+        "{Effective Date}",
+        "{Incorporation Date}",
+        "{New Company Name}",
+        "{Stockholder Name}"
+      ],
+      "signature_capacities": [
+        "director",
+        "stockholder"
+      ],
+      "docx_path": "dnu-ccorp/templates/name-change-consent-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp, rename"
+    },
+    {
+      "id": "certificate-of-amendment-ccorp",
+      "title": "Certificate of Amendment (C-corp)",
+      "path": "dnu-ccorp/templates/certificate-of-amendment-ccorp.md",
+      "entity": "C-Corporation",
+      "variant": "rename",
+      "filed_with_state": true,
+      "fields": [
+        "{Current Company Name}",
+        "{New Company Name}",
+        "{Officer Name}"
+      ],
+      "signature_capacities": [
+        "officer"
+      ],
+      "source_pdf": "dnu-ccorp/forms/de-certificate-of-amendment-stock-corporation.pdf",
+      "docx_path": "dnu-ccorp/templates/certificate-of-amendment-ccorp.docx",
+      "status": "dnu",
+      "dnu_reason": "ccorp, rename"
+    }
+  ],
+  "dnu_document_sets": {
+    "note": "Recorded as they stood when parked, for reference only. No renderer should resolve these.",
+    "llc-shelfco-rename": [
+      "operating-agreement-llc",
+      "membership-interest-purchase-agreement-llc",
+      "indemnification-agreement-llc-manager",
+      "ai-governance-policy-llc",
+      "name-change-consent-llc",
+      "certificate-of-amendment-llc",
+      "form-8822-b"
+    ],
+    "ccorp-shelfco": [
+      "action-of-incorporator-ccorp",
+      "bylaws-ccorp",
+      "organizational-resolutions-ccorp",
+      "common-stock-purchase-agreement-ccorp",
+      "stockholder-consent-ccorp",
+      "indemnification-agreement-ccorp",
+      "ai-governance-policy-ccorp",
+      "form-8822-b"
+    ],
+    "ccorp-shelfco-rename": [
+      "action-of-incorporator-ccorp",
+      "bylaws-ccorp",
+      "organizational-resolutions-ccorp",
+      "common-stock-purchase-agreement-ccorp",
+      "stockholder-consent-ccorp",
+      "indemnification-agreement-ccorp",
+      "ai-governance-policy-ccorp",
+      "form-8822-b",
+      "name-change-consent-ccorp",
+      "certificate-of-amendment-ccorp"
+    ]
+  },
+  "dnu_fields_vs_agent_operated_company": {
+    "note": "New fields that existed only in documents now parked. Nothing in incorp-mcp needs to supply them.",
+    "{Incorporation Date}": "ccorp",
+    "{EIN}": "prefile-ein",
+    "{Responsible Party Name}": "prefile-ein",
+    "{Principal Office Address}": "prefile-ein; still used by the parked C-corp organizational resolutions",
+    "{Current Company Name}": "rename, prefile-ein",
+    "{New Company Name}": "rename",
+    "{Amendment Authorized Person Name}": "rename",
+    "{Execution Day}": "rename",
+    "{Execution Month}": "rename",
+    "{Execution Year}": "rename"
+  },
+  "dnu_signature_capacities_vs_agent_operated_company": [
+    "amendment-authorized-person"
+  ]
+}

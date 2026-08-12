@@ -1,0 +1,76 @@
+> **Drafting note — delete before use:** ShelfCo variant of the board organizational consent — the second step after the Action of Incorporator. It elects officers, issues founder stock, and adopts the AI Governance Policy required by Bylaws Article XII. The director signs. Two ShelfCo-specific differences from the new-formation version: the ratification in Resolution 1 covers a Certificate of Incorporation filed on an earlier date, and Resolution 8 ratifies the EIN General Legal already obtained rather than authorizing a new application, and authorizes the Form 8822-B responsible-party change the transfer requires. The Founder, the Director, and the Officer may be up to three different people. Replace bracketed terms; add or remove resolutions to fit.
+
+**ACTION BY WRITTEN CONSENT**
+
+OF THE BOARD OF DIRECTORS OF
+
+**{Company Name}, Inc.**
+
+{Effective Date}
+
+Pursuant to Section 141(f) of the General Corporation Law of the State of Delaware (the “DGCL”), the undersigned, being all of the directors of {Company Name}, Inc., a Delaware corporation (the “Corporation”), adopt the following resolutions by written consent without a meeting:
+
+1.  **Ratification of Incorporator’s Actions.**
+
+RESOLVED, that all actions taken by the incorporator under DGCL Sections 107 and 108 to incorporate and organize the Corporation, including the filing of the Certificate of Incorporation with the Secretary of State of the State of Delaware on {Incorporation Date}, the application for the Corporation’s Employer Identification Number, the appointment and maintenance of the Corporation’s registered agent, and the adoption of the Bylaws, are ratified, confirmed, and approved.
+
+2.  **Charter Documents; Minute Book.**
+
+RESOLVED, that the Certificate of Incorporation filed with the Delaware Secretary of State and the Bylaws adopted by the incorporator are approved as the charter documents of the Corporation; and RESOLVED FURTHER, that the Corporation shall maintain a minute book containing its Certificate of Incorporation, Bylaws, stock records, and the minutes and written consents of its stockholders and directors.
+
+3.  **Principal Office.**
+
+RESOLVED, that the principal office of the Corporation shall be located at {Principal Office Address}, and that the officers may change the location of the principal office from time to time.
+
+4.  **Election of Officers.**
+
+RESOLVED, that the following natural person is elected to the offices set forth opposite their name, each to serve until a successor is elected or until earlier resignation or removal: {Officer Name} — President and Chief Executive Officer, Secretary, and Treasurer. \[GL INSTRUCTION — List additional officers if the founder chooses to separate these roles.\]
+
+5.  **Issuance of Founder Stock.**
+
+RESOLVED, that the Corporation shall sell and issue to {Founder Name} {Number of Shares} shares of the Corporation’s Common Stock at a price of {Price Per Share} per share, for aggregate consideration of {Aggregate Purchase Price} payable in \[GL INSTRUCTION — Choose cash, assignment of intellectual property, or past services rendered.\] {Form of Consideration}, which the Board determines to be adequate consideration under Section 152 of the DGCL; and RESOLVED FURTHER, that upon the Corporation’s receipt of the consideration and a signed Common Stock Purchase Agreement in substantially the form attached hereto as Exhibit A, the shares shall be duly authorized, validly issued, fully paid, and non-assessable, and shall be recorded in the Corporation’s stock ledger.
+
+6.  **Adoption of AI Governance Policy.**
+
+WHEREAS, Article XII of the Bylaws requires the Board to adopt and maintain a written AI Governance Policy; NOW, THEREFORE, RESOLVED, that the AI Governance Policy presented to the Board is adopted as the Corporation’s AI Governance Policy; RESOLVED FURTHER, that the AI system identified on Schedule 1 to that Policy is designated as the Corporation’s AI Agent and that {AI Oversight Officer Name} is designated as the initial AI Oversight Officer; and RESOLVED FURTHER, that the officers are authorized to maintain the Audit Log and deliver the quarterly reports the Policy requires.
+
+7.  **Bank Accounts.**
+
+RESOLVED, that the officers are authorized to open and maintain one or more accounts in the name of the Corporation with such financial institutions as they select, and to execute each institution’s standard account-authorization forms, which are adopted as resolutions of the Board.
+
+8.  **Tax Identification and Elections.**
+
+RESOLVED, that the Corporation’s existing Employer Identification Number, {EIN}, obtained from the Internal Revenue Service on the Corporation’s behalf prior to the date of these resolutions, and the application by which it was obtained, are ratified, confirmed, and approved; RESOLVED FURTHER, that {Responsible Party Name} is designated as the Corporation’s responsible party for purposes of Internal Revenue Service reporting, and the officers are authorized and directed to report that designation and the Corporation’s current mailing address and business location to the Internal Revenue Service on Form 8822-B within the time that form requires; and RESOLVED FURTHER, that the officers are authorized to make such tax elections as they determine to be in the best interests of the Corporation.
+
+9.  **Fiscal Year.**
+
+RESOLVED, that the fiscal year of the Corporation shall end on {Fiscal Year End} of each year.
+
+10. **Indemnification Agreement.**
+
+RESOLVED, that the indemnification agreement in the form attached hereto as Exhibit B shall be and hereby is approved.
+
+11. **General Authority.**
+
+RESOLVED, that the officers of the Corporation are authorized to take all further actions and to execute and deliver all further documents they deem necessary or advisable to carry out the foregoing resolutions and to organize and commence the business of the Corporation.
+
+\[*Signature Page Follows*\]
+
+IN WITNESS WHEREOF, the undersigned has executed this Action by Written Consent as of the date first written above, effective under Sections 141(f) and 116 of the DGCL.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\[\[GL-SIGNATURE:director\]\]
+{Director Name}, Director
+
+**Exhibit A**
+
+**Form of Common Stock Purchase Agreement**
+
+**\[GL INSTRUCTION — Attached document is supplied as the following packet section.\] **
+
+**Exhibit B**
+
+Form of Indemnification Agreement
+
+\[GL INSTRUCTION — Attached document is supplied as the following packet section.\]

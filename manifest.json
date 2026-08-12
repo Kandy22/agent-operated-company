@@ -2,7 +2,7 @@
   "name": "agent-operated-company",
   "description": "Free templates and instructions to form a U.S. company an AI agent can operate. An engaged client can have General Legal file it via a formation tool on GL's existing MCP.",
   "maintainer": "General Legal, LLP",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "entities_supported": [
     "LLC",
     "C-Corporation"
@@ -276,8 +276,93 @@
         "manager",
         "indemnitee"
       ]
+    },
+    {
+      "id": "operating-agreement-llc-shelfco",
+      "title": "Operating Agreement (LLC, ShelfCo)",
+      "path": "shelfco/templates/operating-agreement-llc.md",
+      "docx_path": "shelfco/templates/operating-agreement-llc.docx",
+      "entity": "LLC",
+      "variant": "shelfco",
+      "filed_with_state": false,
+      "fields": [
+        "{Capital Contribution}",
+        "{Company Name}",
+        "{Effective Date}",
+        "{Formation Date}",
+        "{Manager Name}",
+        "{Member Name}"
+      ],
+      "signature_capacities": [
+        "member",
+        "manager"
+      ],
+      "note": "Section 1 records the shelf entity's formation, names General Legal's authorized person literally rather than as a field, and has the Member ratify the pre-claim filing. The Member's ratification is the only place the pre-filing is picked up: no one from General Legal signs anything at claim time."
+    },
+    {
+      "id": "ai-governance-policy-llc-shelfco",
+      "title": "AI Governance Policy (LLC, ShelfCo)",
+      "path": "shelfco/templates/ai-governance-policy-llc.md",
+      "docx_path": "shelfco/templates/ai-governance-policy-llc.docx",
+      "entity": "LLC",
+      "variant": "shelfco",
+      "filed_with_state": false,
+      "fields": [
+        "{AI Agent Description}",
+        "{AI Oversight Officer Name}",
+        "{Authority Limits}",
+        "{Company Name}",
+        "{Contract Threshold}",
+        "{Effective Date}",
+        "{Manager Name}"
+      ],
+      "signature_capacities": [
+        "manager",
+        "ai-oversight-officer"
+      ],
+      "note": "Identical to ai-governance-policy-llc except Section 3 no longer asserts the AI Oversight Officer is the sole Member and Manager, so it stays true when the Member and Manager are different people."
+    },
+    {
+      "id": "cof-llc-shelfco",
+      "title": "Certificate of Formation (LLC) - filed copy for the client's records",
+      "path": "shelfco/templates/certificate-of-formation-llc.md",
+      "docx_path": "shelfco/templates/certificate-of-formation-llc.docx",
+      "entity": "LLC",
+      "variant": "shelfco",
+      "filed_with_state": true,
+      "already_filed": true,
+      "fields": [
+        "{Company Name}",
+        "{Formation Day}",
+        "{Formation Month}",
+        "{Formation Year}"
+      ],
+      "signature_capacities": [],
+      "note": "Two pages: a cover sheet explaining the certificate is already on file with Delaware, then a copy of the certificate General Legal's authorized person signed before the client arrived, including his signature image. It renders complete on its face, carries no signature markers, and must never be routed for signature. Delaware's ordinal phrasing splits the date into {Formation Day} ('28th'), {Formation Month} ('July'), and {Formation Year} ('2026'); the ShelfCo operating agreement uses the same date in prose as {Formation Date}."
     }
   ],
+  "document_sets": {
+    "llc-shelfco": [
+      "operating-agreement-llc-shelfco",
+      "membership-interest-purchase-llc",
+      "indemnification-llc-manager",
+      "ai-governance-policy-llc-shelfco",
+      "cof-llc-shelfco"
+    ]
+  },
+  "shelfco": {
+    "summary": "Pre-formed 'GL AgentCo <n>, LLC' shelf companies handed to a client near-instantly. LLC only, placeholder name only, no pre-filed EIN. The signing packet is document_sets.llc-shelfco, in envelope order: four documents the client signs, then the certificate copy as an unsigned page.",
+    "role_model": "Two roles, Member and Manager, held by at most two distinct people; one person may hold both. The Member is also the Purchaser. The AI Oversight Officer must be the Member or the Manager. Every name variable is a role, not a person: where one person holds several roles, write the same name into every variable for every role they hold, and never leave one blank. A person holding two roles signs in both capacities, sometimes on both sides of one document: a member who is also the manager signs the membership interest purchase agreement twice, once for the company as its manager and once as the purchaser.",
+    "general_legal_signers": "None. The Certificate of Formation was signed and filed by General Legal's authorized person before the client arrived, and his authority ended when Delaware accepted the filing.",
+    "company_name_rule": "{Company Name} is always the shelf entity's placeholder name. There is no rename variant; a client who wants a specific name should use a from-scratch formation with the base templates.",
+    "unsigned_packet_pages": [
+      "cof-llc-shelfco"
+    ],
+    "shelf_entity_facts": "The four formation-date tokens are one value, the date Delaware accepted the shelf entity's Certificate of Formation, in two shapes: prose {Formation Date} ('July 28, 2026') and the certificate's ordinal split ({Formation Day}/{Formation Month}/{Formation Year}).",
+    "ein": "The shelf entity has no EIN at handoff. The client's agent obtains one with the principal per filing-instructions/delaware-llc-ein-filing-instructions.md; nothing in the packet applies for, ratifies, or transfers an EIN.",
+    "parked_flows": "C-corp ShelfCos (shelfco/dnu-ccorp/), pre-filed EINs with Form 8822-B (shelfco/dnu-prefile-ein/), and renames (shelfco/dnu-rename/) are parked; each directory's README records the decision. Nothing live references them.",
+    "history": "shelfco/docs/changes-from-agent-operated-company.md records every deviation from the base templates."
+  },
   "filing_steps": [
     "Choose entity (see filing-instructions/README.md)",
     "File charter with the state and pay the filing fee",
